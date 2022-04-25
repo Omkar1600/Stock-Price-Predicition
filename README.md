@@ -1,6 +1,13 @@
 # Stock-Price-Predicition
 
-1.To execute the project you should have the following check out the requirments file
+1.To execute the project you should have all python packages in requirments.txt file
 2.For running the jupyer file you show have a jupyter environment setup in your system for doing so folloe the steps in the link below
 link :https://jupyter.org/install
-3.After the setup of envionment 
+3.After the setup of envionment create folder for your project
+4.Download LSTM jupyter notebook and app.py file in that folder
+5.Using jupyter notebook navigate to Lstm file and run all the cells of the file
+6.YOur model is saved in your folder 
+7.With any of the code editor navigate to the project folder and then the terminal run the command below
+command : streamlit run app.py
+
+Your project will be running on localhoast on your browser.
